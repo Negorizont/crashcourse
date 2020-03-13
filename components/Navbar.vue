@@ -25,6 +25,11 @@
             <span>Users</span>
           </nuxt-link>
         </li>
+        <li class="nav-item">
+          <nuxt-link active-class="active" class="nav-link" to="/login">
+            <span>Login</span>
+          </nuxt-link>
+        </li>
       </ul>
     </div>
   </nav>
